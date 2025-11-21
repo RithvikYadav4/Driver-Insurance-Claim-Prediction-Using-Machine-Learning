@@ -90,46 +90,34 @@ c)Shows that SMOTE may not be optimal for this dataset’s structure
 
 # Technologies Used
 
-###  1.Programming & Notebook
+1.Python
 
-a)Python
+2.Jupyter Notebook / Google Colab
 
-b)Jupyter Notebook / Google Colab
+3.Pandas
 
-### Data Processing
+4.NumPy
 
-a)Pandas
+4.Scikit-learn preprocessing tools
 
-b)NumPy
+5.Imbalanced-learn (imblearn)
 
-Scikit-learn preprocessing tools
+6.RandomUnderSampler
 
-### 3.Sampling Techniques
+7.RandomOverSampler
 
-Imbalanced-learn (imblearn)
+8.ClusterCentroids
 
-RandomUnderSampler
+9.SMOTE
 
-RandomOverSampler
+10.Logistic Regression
 
-ClusterCentroids
+11.Decision Tree Classifier
 
-SMOTE
+12.K-Nearest Neighbors (KNN)
 
-### 4.Machine Learning Models
+13.F1-Score
 
-a)Logistic Regression
+14.AUC-ROC
 
-b)Decision Tree Classifier
-
-c)K-Nearest Neighbors (KNN)
-
-### 5.Model Evaluation
-
-F1-score
-
-AUC-ROC
-
-Confusion Matrix
-
-Matplotlib / Seaborn for visualizations
+15.Confusion Matrix
