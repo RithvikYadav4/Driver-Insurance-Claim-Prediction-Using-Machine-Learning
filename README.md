@@ -94,30 +94,15 @@ c)Shows that SMOTE may not be optimal for this dataset’s structure
 
 2.Jupyter Notebook / Google Colab
 
-3.Pandas
+3.Numpy,Pandas
 
-4.NumPy
-
-4.Scikit-learn preprocessing tools
+4.Scikit-learn 
 
 5.Imbalanced-learn (imblearn)
 
-6.RandomUnderSampler
+6.RandomUnderSampler,RandomOverSampler,ClusterCentroids,SMOTE
 
-7.RandomOverSampler
+7.Logistic Regression,Decision Tree Classifier,KNN
 
-8.ClusterCentroids
+8.F1-Score,AUC-ROC,Confusion Matrix
 
-9.SMOTE
-
-10.Logistic Regression
-
-11.Decision Tree Classifier
-
-12.K-Nearest Neighbors (KNN)
-
-13.F1-Score
-
-14.AUC-ROC
-
-15.Confusion Matrix
