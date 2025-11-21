@@ -94,7 +94,7 @@ c)Shows that SMOTE may not be optimal for this dataset’s structure
 
 2.Jupyter Notebook / Google Colab
 
-3.Numpy,Pandas
+3.Numpy,Pandas,Matplotlib
 
 4.Scikit-learn 
 
